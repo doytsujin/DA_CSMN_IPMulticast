@@ -1,0 +1,16 @@
+- Mục đích của Multicast ip lần này:
+    - IP multicast là gì
+    - Cách Join vào một mạng
+    - Cách Thoát ra
+    - Và Ứng dụng của nó.
+
+- Gồm cách chức năng chính:
+    - Một Ip Join vào một mạng.
+    - Join vào, thoát ra.
+    - Chát với nhau
+    - Gửi thông tin mật qua một mạng, mã hóa
+    - Gửi Video
+    - Gửi âm thanh
+ - Phân tích nó:
+    - Lớp IpMulticast ( sender,receive) 
+    - Lớp Receiver -->
